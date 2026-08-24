@@ -1,2 +1,2 @@
-# Jos-Soliz
+# José-Soliz
 Trabajo 

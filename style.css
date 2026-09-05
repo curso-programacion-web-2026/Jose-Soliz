@@ -1,0 +1,10 @@
+body {background-color: #a0b4af;
+p {font-family: Arial, sans-serif;}
+h1 {color: rgb(83, 44, 134); font-size:40px; text-aling: center;}
+h2 {color: rgb(13, 49, 13);}
+h3 {color: rgb(12, 12, 59);}
+.destacado {color: rgb(99, 16, 16); font-weight: bold;}
+.servicio {color: rgb(7, 151, 43);}
+.contenido {color: rgb(33, 24, 158);}
+#título {background-color: lightgray;}
+#sobre-mi {background-color: #ff0000;}

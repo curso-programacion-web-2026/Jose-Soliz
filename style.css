@@ -7,4 +7,5 @@ h3 {color: rgb(12, 12, 59);}
 .servicio {color: rgb(7, 151, 43);}
 .contenido {color: rgb(33, 24, 158);}
 #título {background-color: lightgray;}
-#sobre-mi {background-color: #ff0000;}
+#sobre-mi {background-color: #795555;}
+section {background-color: rgb(158, 130, 130); padding:60px; margin80px border: 50px solid black;}

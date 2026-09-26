@@ -1,31 +1,11 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #fdf6f0;
-    text-align: center;
-    padding: 40px;
-    color: #333;
-}
-.juego{
-    background-color: white;
-    max-width: 600px;
-    margin: 30px auto;
-    padding: 40px;
-    border-radius: 15px;
-}
-button {
-    font-size: 18px;
-    padding: 15px 20px;
-    margin: 10px;
-    border: none;
-    border-radius:10px;
-    cursor: pointer;
-    background-color: #7d2a33;
-    color: white;
-}
-.resultado {
-    margin-top: 30px;
-    font-size: 20px;
-}
-#resultado {
-    color: #7d2a33;
-}
+body {background-color: #a0b4af;
+p {font-family: Arial, sans-serif;}
+h1 {color: rgb(83, 44, 134); font-size:40px; text-aling: center;}
+h2 {color: rgb(13, 49, 13);}
+h3 {color: rgb(12, 12, 59);}
+.destacado {color: rgb(99, 16, 16); font-weight: bold;}
+.servicio {color: rgb(7, 151, 43);}
+.contenido {color: rgb(33, 24, 158);}
+#título {background-color: lightgray;}
+#sobre-mi {background-color: #795555;}
+section {background-color: rgb(158, 130, 130); padding:60px; margin80px border: 50px solid black;}
